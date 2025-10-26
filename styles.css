@@ -1,0 +1,55 @@
+body{
+    background-color: olivedrab;
+    font-family: 'Arial', sans-serif;
+}
+/*gestaltung Business-card*/
+.business-card{
+    background-color: rgba(255, 240, 245, 0.237);
+    border: 3px solid darkslategray;
+    padding: 20px;
+    text-align: center;
+    font-size: 16px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
+/* Image  */
+.profile-image{
+    max-width: 100%;
+    width: 150px;
+    height: 150px;
+    margin-bottom: 10px;
+    border: 2px solid lightgrey;
+}
+/* Gestaltung vom P elementen*/
+.full-name{
+    font-size: 24px;
+    color: darkolivegreen;
+}
+.designation{
+    font-size: 18px;
+    color: rgb(90, 87, 87);
+}
+.company{
+    font-size: 16px;
+    color: rgb(109, 107, 107);
+}
+p{
+    margin: 5px 0;
+}
+a{
+    text-decoration: none;
+}
+/*Social media*/
+.social-media{
+    margin-top: 10px;
+    font-size: 14px;
+}
+.social-media a{
+    margin: 10px;
+    color: rgb(0, 128, 13);
+}
+hr{
+    margin: 20px 0;
+}
